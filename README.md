@@ -36,3 +36,17 @@ The biggest drop-off occurs between **Details Filled** and **Email Verified**, w
 
 ## Recommendation
 Simplify the email verification process, reduce friction, and improve verification email delivery to increase user conversion.
+
+## Power BI Dashboard
+
+![Dashboard](powerbi_dashboard.png)
+
+
+
+
+
+
+
+
+
+
